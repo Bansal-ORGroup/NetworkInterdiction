@@ -2,7 +2,7 @@
 
 ## Sumin Kang and Manish Bansal
 
-This repository is a companion repository for the paper titled "Distributionally Risk-receptive And Risk-averse Network Interdiction Problems With General Ambiguity Set." (Link to paper: http://www.optimization-online.org/DB_HTML/2021/12/8730.html)
+This repository is a companion repository for the paper titled "Distributionally Risk-receptive And Risk-averse Network Interdiction Problems With General Ambiguity Set." (Link to paper: https://doi.org/10.1002/net.22114)
 
 ### Abstract: 
 
