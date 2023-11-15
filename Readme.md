@@ -23,4 +23,4 @@ We consider instance categories with 40-, 60-, 80-, and 100-node networks, and l
 - (4th row) Penalty cost of each arc
 - (5th to last row) Random success of interdiction attempt on each arc - 1000 scenarios
 
-The details of the instance generation are provided in the paper (http://www.optimization-online.org/DB_HTML/2021/12/8730.html).
+The details of the instance generation are provided in the paper (https://doi.org/10.1002/net.22114).
